@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  Sava Rekrutov, 17y.o
-  java/rust/python
-  postgresql/redis/docker/git
-  vscode/intelij/rustrover
-  win11/kali/ubuntu/black-arch
+  Sava Rekrutov, 17y.o<br>
+  java/rust/python<br>
+  postgresql/redis/docker/git<br>
+  vscode/intelij/rustrover<br>
+  win11/kali/ubuntu/black-arch<br>
   programming/osint/disassembly
-</p> 
+</p>
 
  
 
